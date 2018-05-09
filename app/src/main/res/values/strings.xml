@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestOpenPluginProject</string>
+    <string name="test_send_request">测试机发送请求</string>
+</resources>
